@@ -12,7 +12,7 @@ El objetivo principal de este trabajo es desarrollar un sistema de recomendació
 
 # 1. Preparación de los datos 
 
-Dividimos el conjunto de datos en conjuntos de entrenamiento y prueba, tomando como datos de entrenamiento aquellos hasta el 1 de marzo de 2021, y reservando los datos posteriores para pruebas. 
+Dividimos el conjunto de datos en conjuntos de entrenamiento y prueba, tomando como datos de entrenamiento aquellos que van desde el 1 de enero de 2013 hasta el 31 de diciembre de 2013 , y reservando los datos para las pruebas el primer mes del 2014.
 
 Realizamos un proceso de ETL (Extract, Transform, Load) para limpiar y preparar los datos para su posterior análisis. 
 
