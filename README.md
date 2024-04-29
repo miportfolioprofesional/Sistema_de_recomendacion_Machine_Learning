@@ -24,3 +24,7 @@ Implementamos un algoritmo de recomendación capaz de generar 20 recomendaciones
 Las recomendaciones se generan para cada account_id, recomendando content_id (NO asset_id). 
 
 Filtramos los contenidos que ya han sido vistos por los usuarios en el conjunto de entrenamiento. 
+
+
+
+![Matias Endrek](https://github.com/MayraSierraAT/PI_DA-Telecomunicaciones/blob/main/README.md)
