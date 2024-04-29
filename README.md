@@ -25,7 +25,6 @@ Las recomendaciones se generan para cada account_id, recomendando content_id (NO
 
 Filtramos los contenidos que ya han sido vistos por los usuarios en el conjunto de entrenamiento. 
 
-![Nueva_foto_para_linkedin_2](https://github.com/EndrekMatias/Sistema_de_recomendacion_Machine_Learning/assets/108310078/068a4061-5658-4b84-9f3a-84a07afa7229)
 
 
 
