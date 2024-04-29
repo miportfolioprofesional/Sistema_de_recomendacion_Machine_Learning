@@ -8,7 +8,7 @@ Este proyecto consiste en el desarrollo de un sistema de recomendación de machi
 
 El objetivo principal de este trabajo es desarrollar un sistema de recomendación que utilice las valoraciones previas de los usuarios en una variedad de productos para sugerirles nuevos artículos. A través del análisis de las reseñas de los productos, buscamos proporcionar recomendaciones personalizadas que mejoren la experiencia del usuario en la plataforma, asignándole los mejores productos de acuerdo con sus preferencias. 
 
-#Proceso 
+# Procesos 
 
 # 1. Preparación de los datos 
 
