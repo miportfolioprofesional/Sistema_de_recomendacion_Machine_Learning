@@ -27,4 +27,4 @@ Filtramos los contenidos que ya han sido vistos por los usuarios en el conjunto 
 
 
 
-![Matias Endrek](https://github.com/MayraSierraAT/PI_DA-Telecomunicaciones/blob/main/README.md)
+![Matias Endrek](https://github.com/EndrekMatias/Sistema_de_recomendacion_Machine_Learning/edit/main/README.md)
