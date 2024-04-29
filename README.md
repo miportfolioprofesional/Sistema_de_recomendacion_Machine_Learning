@@ -25,6 +25,3 @@ Las recomendaciones se generan para cada account_id, recomendando content_id (NO
 
 Filtramos los contenidos que ya han sido vistos por los usuarios en el conjunto de entrenamiento. 
 
-
-
-![Matias Endrek](search-ms:displayname=Resultados%20de%20la%20búsqueda%20en%20Descargas&crumb=System.Generic.String%3A(foto%20para)&crumb=location:C%3A%5CUsers%5CUsuario%5CDownloads)
