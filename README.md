@@ -27,4 +27,4 @@ Filtramos los contenidos que ya han sido vistos por los usuarios en el conjunto 
 
 
 
-![Matias Endrek](https://github.com/EndrekMatias/Sistema_de_recomendacion_Machine_Learning/edit/main/README.md)
+![Matias Endrek](search-ms:displayname=Resultados%20de%20la%20búsqueda%20en%20Descargas&crumb=System.Generic.String%3A(foto%20para)&crumb=location:C%3A%5CUsers%5CUsuario%5CDownloads)
