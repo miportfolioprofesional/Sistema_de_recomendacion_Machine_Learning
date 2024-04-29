@@ -26,6 +26,11 @@ Las recomendaciones se generan para cada account_id, recomendando content_id (NO
 Filtramos los contenidos que ya han sido vistos por los usuarios en el conjunto de entrenamiento. 
 
 
+# Conclusión final: 
+
+El modelo de recomendación tiene un rendimiento extremadamente deficiente en la tarea de recomendación. Sin embargo, La forma en que gestionamos los usuarios "cold start", la creación del conjunto "ideal" y la generación de recomendaciones pueden tener un impacto significativo en la evaluación del rendimiento del modelo de recomendación.
+
+
 
 
 
