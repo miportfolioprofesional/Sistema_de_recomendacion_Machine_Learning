@@ -31,6 +31,32 @@ Filtramos los contenidos que ya han sido vistos por los usuarios en el conjunto 
 El modelo de recomendación tiene un rendimiento extremadamente deficiente en la tarea de recomendación. Sin embargo, La forma en que gestionamos los usuarios "cold start", la creación del conjunto "ideal" y la generación de recomendaciones pueden tener un impacto significativo en la evaluación del rendimiento del modelo de recomendación.
 
 
+# Colaboradores del proyecto.
+
+<table>
+  <tr>
+    <td align='center'>
+      <div>
+        <a href="https://github.com/EndrekMatias" target="_blank" rel="author">
+          <img width="120" src="https://avatars.githubusercontent.com/u/108310078?v=4"/>
+        </a>
+        <div>
+          <a href="https://github.com/EndrekMatias" target="_blank" rel="author">
+            <h4>Matías Endrek</h4>
+            <small>Data Analyst</small>
+          </a>
+        </div>
+        <div>
+          <a href="https://github.com/EndrekMatias" target="_blank">
+            <img style='width:6rem' src="https://github.com/Briantahiel/Fintech/assets/72633519/fdbb64fe-676d-4c83-965f-11835c532333"/>
+          </a>
+        </div>
+      </div>
+    </td>
+  </tr>
+</table>
+
+
 
 
 
