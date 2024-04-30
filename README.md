@@ -1,5 +1,6 @@
 # Sistema_de_recomendacion_Machine_Learning
-Ultimo entregable para la Icaro (Diplomatura en Machine Learning)
+
+Ultimo entregable para la ICARO (Diplomatura en Machine Learning).
 
 
 Este proyecto consiste en el desarrollo de un sistema de recomendación de machine learning para la institución Icaro, perteneciente a la Universidad Tecnológica Nacional de Córdoba. Utilizaremos datos de visualizaciones de Amazon, específicamente del conjunto de datos ratings_electronics. 
