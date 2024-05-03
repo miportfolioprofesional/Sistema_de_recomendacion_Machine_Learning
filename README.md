@@ -44,7 +44,7 @@ El modelo de recomendación tiene un rendimiento extremadamente deficiente en la
         <div>
           <a href="https://github.com/EndrekMatias" target="_blank" rel="author">
             <h4>Matías Endrek</h4>
-            <small>Data Analyst</small>
+            <small>Data Science</small>
           </a>
         </div>
         <div>
