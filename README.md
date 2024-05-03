@@ -57,6 +57,11 @@ El modelo de recomendación tiene un rendimiento extremadamente deficiente en la
   </tr>
 </table>
 
+# Camila Arregui: [![Gmail: arreguicamila@gmail.com](https://img.shields.io/badge/Gmail-arreguicamila@gmail.com-red)](mailto:arreguicamila@gmail.com)
+
+
+# Lucas Pedraza: [![Gmail: inside255@gmail.com](https://img.shields.io/badge/Gmail-inside255@gmail.com)](mailto:inside255@gmail.com)
+
 
 
 
