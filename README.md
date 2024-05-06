@@ -34,28 +34,8 @@ El modelo de recomendación tiene un rendimiento extremadamente deficiente en la
 
 # Colaboradores del proyecto.
 
-<table>
-  <tr>
-    <td align='center'>
-      <div>
-        <a href="https://github.com/EndrekMatias" target="_blank" rel="author">
-          <img width="120" src="https://avatars.githubusercontent.com/u/108310078?v=4"/>
-        </a>
-        <div>
-          <a href="https://github.com/EndrekMatias" target="_blank" rel="author">
-            <h4>Matías Endrek</h4>
-            <small>Data Science</small>
-          </a>
-        </div>
-        <div>
-          <a href="https://github.com/EndrekMatias" target="_blank">
-            <img style='width:6rem' src="https://github.com/Briantahiel/Fintech/assets/72633519/fdbb64fe-676d-4c83-965f-11835c532333"/>
-          </a>
-        </div>
-      </div>
-    </td>
-  </tr>
-</table>
+
+# Endrek Matias: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/matias-endrek-7a9680255/) [![Gmail: matiasjavierendrek@gmail.com](https://img.shields.io/badge/Gmail-matiasjavierendrek@gmail.com-red)](mailto:matiasjavierendrek@gmail.com)
 
 # Camila Arregui: [![Gmail: arreguicamila@gmail.com](https://img.shields.io/badge/Gmail-arreguicamila@gmail.com-red)](mailto:arreguicamila@gmail.com)
 
